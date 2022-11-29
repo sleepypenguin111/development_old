@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+[If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`](https://sleepypenguin111.github.io/development/)
 
 ### Goal and Value of the Application
 The goal of this application is to provide users to interact with 12 cards with sorting and filtering features. This app also enables users to effectively and efficiently find a dog of their preference.
